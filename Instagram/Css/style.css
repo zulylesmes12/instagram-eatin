@@ -1,0 +1,40 @@
+body{
+    font-family: 'Spartan', sans-serif;
+    font-weight: 300;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h5{
+    padding: 0;
+}
+.form-control, .btn{
+    min-height: 3.125rem;
+    line-height: initial;
+}
+.btn{
+    background-color: rgb(41, 74, 112);
+}
+.img-1{
+    height: 100;
+    width: 100;
+    background-image: url(/Img/Imagen\ 1.1.png);
+    background-size: cover;
+    background-position: center;
+}
+.img-2{
+    height: 100;
+    width: 100;
+    background-image: url(/Img/Storie\ 1.png);
+    background-size: cover;
+    background-position: center;
+}
+.img-3{
+    height: 100;
+    width: 100;
+    background-image: url(/Img/Live\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+}
